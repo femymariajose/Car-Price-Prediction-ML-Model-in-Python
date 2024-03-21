@@ -1,2 +1,2 @@
 # Car-Price-Prediction-ML-Model-in-Python
-ML model predicts  predicts how much someone might spend on a car based on certain details about them.
+ML model predicts  predicts how much someone might spend on a car based on certain details about them, like their name, email, where they live, gender, age, salary, credit card debt, and net worth. The focus is on predicting car prices using a method called regression. Then compare three different ways of making these predictions: Artificial Neural Networks (ANN), Multiple Linear Regression, Lasso, and Random Forest and to figure out which method works best for predicting car prices.
